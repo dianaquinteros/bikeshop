@@ -1,0 +1,14 @@
+{
+  "name": "consulta-cliente-y-calculo-descuento",
+  "version": "1.0.0",
+  "description": "Requerimiento N2 - Prueba Ensayo FullStack JavaScript, TALENTO DIGITAL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diana Quinteros G.",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}

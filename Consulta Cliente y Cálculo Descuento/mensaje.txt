@@ -1,0 +1,3 @@
+Cliente: Pamelia
+	 Su compra es de $1000 pesos 
+	 porcentaje de descuento 60 da un total de: $400
