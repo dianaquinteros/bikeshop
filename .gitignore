@@ -1,0 +1,625 @@
+Consulta Cliente y Cálculo Descuento/node_modules/buffer-writer/.travis.yml
+Consulta Cliente y Cálculo Descuento/node_modules/buffer-writer/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/buffer-writer/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/buffer-writer/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/buffer-writer/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/buffer-writer/test/mocha.opts
+Consulta Cliente y Cálculo Descuento/node_modules/buffer-writer/test/writer-tests.js
+Consulta Cliente y Cálculo Descuento/node_modules/packet-reader/.travis.yml
+Consulta Cliente y Cálculo Descuento/node_modules/packet-reader/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/packet-reader/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/packet-reader/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/packet-reader/test/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/pg/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/pg/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/client.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/connection-parameters.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/connection.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/defaults.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/query.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/result.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/sasl.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/type-overrides.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/utils.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/native/client.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/native/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg/lib/native/query.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-connection-string/index.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-connection-string/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-connection-string/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/pg-connection-string/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/pg-connection-string/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/pg-int8/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-int8/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/pg-int8/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/pg-int8/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/bring-your-own-promise.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/connection-strings.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/connection-timeout.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/ending.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/error-handling.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/events.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/idle-timeout-exit.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/idle-timeout.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/logging.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/max-uses.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/releasing-clients.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/setup.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/sizing.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/submittable.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/timeout.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-pool/test/verify.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/b.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/b.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/b.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/buffer-reader.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/buffer-reader.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/buffer-reader.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/buffer-writer.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/buffer-writer.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/buffer-writer.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/inbound-parser.test.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/inbound-parser.test.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/inbound-parser.test.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/index.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/index.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/messages.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/messages.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/messages.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/outbound-serializer.test.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/outbound-serializer.test.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/outbound-serializer.test.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/parser.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/parser.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/parser.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/serializer.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/serializer.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/dist/serializer.js.map
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/b.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/buffer-reader.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/buffer-writer.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/inbound-parser.test.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/index.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/messages.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/outbound-serializer.test.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/parser.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/serializer.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/testing/buffer-list.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/testing/test-buffers.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-protocol/src/types/chunky.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/.travis.yml
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/index.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/index.test-d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/Makefile
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/lib/arrayParser.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/lib/binaryParsers.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/lib/builtins.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/lib/textParsers.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/test/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/pg-types/test/types.js
+Consulta Cliente y Cálculo Descuento/node_modules/pgpass/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/pgpass/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/pgpass/lib/helper.js
+Consulta Cliente y Cálculo Descuento/node_modules/pgpass/lib/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-array/index.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-array/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-array/license
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-array/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-array/readme.md
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-bytea/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-bytea/license
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-bytea/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-bytea/readme.md
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-date/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-date/license
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-date/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-date/readme.md
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-interval/index.d.ts
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-interval/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-interval/license
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-interval/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/postgres-interval/readme.md
+Consulta Cliente y Cálculo Descuento/node_modules/split2/bench.js
+Consulta Cliente y Cálculo Descuento/node_modules/split2/index.js
+Consulta Cliente y Cálculo Descuento/node_modules/split2/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/split2/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/split2/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/split2/test.js
+Consulta Cliente y Cálculo Descuento/node_modules/xtend/.jshintrc
+Consulta Cliente y Cálculo Descuento/node_modules/xtend/immutable.js
+Consulta Cliente y Cálculo Descuento/node_modules/xtend/LICENSE
+Consulta Cliente y Cálculo Descuento/node_modules/xtend/mutable.js
+Consulta Cliente y Cálculo Descuento/node_modules/xtend/package.json
+Consulta Cliente y Cálculo Descuento/node_modules/xtend/README.md
+Consulta Cliente y Cálculo Descuento/node_modules/xtend/test.js
+Monitor de Inventario/node_modules/.bin/mime
+Monitor de Inventario/node_modules/.bin/mime.cmd
+Monitor de Inventario/node_modules/.bin/mime.ps1
+Monitor de Inventario/node_modules/accepts/HISTORY.md
+Monitor de Inventario/node_modules/accepts/index.js
+Monitor de Inventario/node_modules/accepts/LICENSE
+Monitor de Inventario/node_modules/accepts/package.json
+Monitor de Inventario/node_modules/accepts/README.md
+Monitor de Inventario/node_modules/array-flatten/array-flatten.js
+Monitor de Inventario/node_modules/array-flatten/LICENSE
+Monitor de Inventario/node_modules/array-flatten/package.json
+Monitor de Inventario/node_modules/array-flatten/README.md
+Monitor de Inventario/node_modules/body-parser/HISTORY.md
+Monitor de Inventario/node_modules/body-parser/index.js
+Monitor de Inventario/node_modules/body-parser/LICENSE
+Monitor de Inventario/node_modules/body-parser/package.json
+Monitor de Inventario/node_modules/body-parser/README.md
+Monitor de Inventario/node_modules/body-parser/lib/read.js
+Monitor de Inventario/node_modules/body-parser/lib/types/json.js
+Monitor de Inventario/node_modules/body-parser/lib/types/raw.js
+Monitor de Inventario/node_modules/body-parser/lib/types/text.js
+Monitor de Inventario/node_modules/body-parser/lib/types/urlencoded.js
+Monitor de Inventario/node_modules/buffer-writer/.travis.yml
+Monitor de Inventario/node_modules/buffer-writer/index.js
+Monitor de Inventario/node_modules/buffer-writer/LICENSE
+Monitor de Inventario/node_modules/buffer-writer/package.json
+Monitor de Inventario/node_modules/buffer-writer/README.md
+Monitor de Inventario/node_modules/buffer-writer/test/mocha.opts
+Monitor de Inventario/node_modules/buffer-writer/test/writer-tests.js
+Monitor de Inventario/node_modules/bytes/History.md
+Monitor de Inventario/node_modules/bytes/index.js
+Monitor de Inventario/node_modules/bytes/LICENSE
+Monitor de Inventario/node_modules/bytes/package.json
+Monitor de Inventario/node_modules/bytes/Readme.md
+Monitor de Inventario/node_modules/content-disposition/HISTORY.md
+Monitor de Inventario/node_modules/content-disposition/index.js
+Monitor de Inventario/node_modules/content-disposition/LICENSE
+Monitor de Inventario/node_modules/content-disposition/package.json
+Monitor de Inventario/node_modules/content-disposition/README.md
+Monitor de Inventario/node_modules/content-type/HISTORY.md
+Monitor de Inventario/node_modules/content-type/index.js
+Monitor de Inventario/node_modules/content-type/LICENSE
+Monitor de Inventario/node_modules/content-type/package.json
+Monitor de Inventario/node_modules/content-type/README.md
+Monitor de Inventario/node_modules/cookie/HISTORY.md
+Monitor de Inventario/node_modules/cookie/index.js
+Monitor de Inventario/node_modules/cookie/LICENSE
+Monitor de Inventario/node_modules/cookie/package.json
+Monitor de Inventario/node_modules/cookie/README.md
+Monitor de Inventario/node_modules/cookie-signature/.npmignore
+Monitor de Inventario/node_modules/cookie-signature/History.md
+Monitor de Inventario/node_modules/cookie-signature/index.js
+Monitor de Inventario/node_modules/cookie-signature/package.json
+Monitor de Inventario/node_modules/cookie-signature/Readme.md
+Monitor de Inventario/node_modules/debug/.coveralls.yml
+Monitor de Inventario/node_modules/debug/.eslintrc
+Monitor de Inventario/node_modules/debug/.npmignore
+Monitor de Inventario/node_modules/debug/.travis.yml
+Monitor de Inventario/node_modules/debug/CHANGELOG.md
+Monitor de Inventario/node_modules/debug/component.json
+Monitor de Inventario/node_modules/debug/karma.conf.js
+Monitor de Inventario/node_modules/debug/LICENSE
+Monitor de Inventario/node_modules/debug/Makefile
+Monitor de Inventario/node_modules/debug/node.js
+Monitor de Inventario/node_modules/debug/package.json
+Monitor de Inventario/node_modules/debug/README.md
+Monitor de Inventario/node_modules/debug/src/browser.js
+Monitor de Inventario/node_modules/debug/src/debug.js
+Monitor de Inventario/node_modules/debug/src/index.js
+Monitor de Inventario/node_modules/debug/src/inspector-log.js
+Monitor de Inventario/node_modules/debug/src/node.js
+Monitor de Inventario/node_modules/depd/History.md
+Monitor de Inventario/node_modules/depd/index.js
+Monitor de Inventario/node_modules/depd/LICENSE
+Monitor de Inventario/node_modules/depd/package.json
+Monitor de Inventario/node_modules/depd/Readme.md
+Monitor de Inventario/node_modules/depd/lib/browser/index.js
+Monitor de Inventario/node_modules/depd/lib/compat/callsite-tostring.js
+Monitor de Inventario/node_modules/depd/lib/compat/event-listener-count.js
+Monitor de Inventario/node_modules/depd/lib/compat/index.js
+Monitor de Inventario/node_modules/destroy/index.js
+Monitor de Inventario/node_modules/destroy/LICENSE
+Monitor de Inventario/node_modules/destroy/package.json
+Monitor de Inventario/node_modules/destroy/README.md
+Monitor de Inventario/node_modules/ee-first/index.js
+Monitor de Inventario/node_modules/ee-first/LICENSE
+Monitor de Inventario/node_modules/ee-first/package.json
+Monitor de Inventario/node_modules/ee-first/README.md
+Monitor de Inventario/node_modules/encodeurl/HISTORY.md
+Monitor de Inventario/node_modules/encodeurl/index.js
+Monitor de Inventario/node_modules/encodeurl/LICENSE
+Monitor de Inventario/node_modules/encodeurl/package.json
+Monitor de Inventario/node_modules/encodeurl/README.md
+Monitor de Inventario/node_modules/escape-html/index.js
+Monitor de Inventario/node_modules/escape-html/LICENSE
+Monitor de Inventario/node_modules/escape-html/package.json
+Monitor de Inventario/node_modules/escape-html/Readme.md
+Monitor de Inventario/node_modules/etag/HISTORY.md
+Monitor de Inventario/node_modules/etag/index.js
+Monitor de Inventario/node_modules/etag/LICENSE
+Monitor de Inventario/node_modules/etag/package.json
+Monitor de Inventario/node_modules/etag/README.md
+Monitor de Inventario/node_modules/express/History.md
+Monitor de Inventario/node_modules/express/index.js
+Monitor de Inventario/node_modules/express/LICENSE
+Monitor de Inventario/node_modules/express/package.json
+Monitor de Inventario/node_modules/express/Readme.md
+Monitor de Inventario/node_modules/express/lib/application.js
+Monitor de Inventario/node_modules/express/lib/express.js
+Monitor de Inventario/node_modules/express/lib/request.js
+Monitor de Inventario/node_modules/express/lib/response.js
+Monitor de Inventario/node_modules/express/lib/utils.js
+Monitor de Inventario/node_modules/express/lib/view.js
+Monitor de Inventario/node_modules/express/lib/middleware/init.js
+Monitor de Inventario/node_modules/express/lib/middleware/query.js
+Monitor de Inventario/node_modules/express/lib/router/index.js
+Monitor de Inventario/node_modules/express/lib/router/layer.js
+Monitor de Inventario/node_modules/express/lib/router/route.js
+Monitor de Inventario/node_modules/finalhandler/HISTORY.md
+Monitor de Inventario/node_modules/finalhandler/index.js
+Monitor de Inventario/node_modules/finalhandler/LICENSE
+Monitor de Inventario/node_modules/finalhandler/package.json
+Monitor de Inventario/node_modules/finalhandler/README.md
+Monitor de Inventario/node_modules/forwarded/HISTORY.md
+Monitor de Inventario/node_modules/forwarded/index.js
+Monitor de Inventario/node_modules/forwarded/LICENSE
+Monitor de Inventario/node_modules/forwarded/package.json
+Monitor de Inventario/node_modules/forwarded/README.md
+Monitor de Inventario/node_modules/fresh/HISTORY.md
+Monitor de Inventario/node_modules/fresh/index.js
+Monitor de Inventario/node_modules/fresh/LICENSE
+Monitor de Inventario/node_modules/fresh/package.json
+Monitor de Inventario/node_modules/fresh/README.md
+Monitor de Inventario/node_modules/http-errors/HISTORY.md
+Monitor de Inventario/node_modules/http-errors/index.js
+Monitor de Inventario/node_modules/http-errors/LICENSE
+Monitor de Inventario/node_modules/http-errors/package.json
+Monitor de Inventario/node_modules/http-errors/README.md
+Monitor de Inventario/node_modules/iconv-lite/Changelog.md
+Monitor de Inventario/node_modules/iconv-lite/LICENSE
+Monitor de Inventario/node_modules/iconv-lite/package.json
+Monitor de Inventario/node_modules/iconv-lite/README.md
+Monitor de Inventario/node_modules/iconv-lite/encodings/dbcs-codec.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/dbcs-data.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/index.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/internal.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/sbcs-codec.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/sbcs-data-generated.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/sbcs-data.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/utf7.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/utf16.js
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/big5-added.json
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/cp936.json
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/cp949.json
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/cp950.json
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/eucjp.json
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/gbk-added.json
+Monitor de Inventario/node_modules/iconv-lite/encodings/tables/shiftjis.json
+Monitor de Inventario/node_modules/iconv-lite/lib/bom-handling.js
+Monitor de Inventario/node_modules/iconv-lite/lib/extend-node.js
+Monitor de Inventario/node_modules/iconv-lite/lib/index.d.ts
+Monitor de Inventario/node_modules/iconv-lite/lib/index.js
+Monitor de Inventario/node_modules/iconv-lite/lib/streams.js
+Monitor de Inventario/node_modules/inherits/inherits_browser.js
+Monitor de Inventario/node_modules/inherits/inherits.js
+Monitor de Inventario/node_modules/inherits/LICENSE
+Monitor de Inventario/node_modules/inherits/package.json
+Monitor de Inventario/node_modules/inherits/README.md
+Monitor de Inventario/node_modules/ipaddr.js/ipaddr.min.js
+Monitor de Inventario/node_modules/ipaddr.js/LICENSE
+Monitor de Inventario/node_modules/ipaddr.js/package.json
+Monitor de Inventario/node_modules/ipaddr.js/README.md
+Monitor de Inventario/node_modules/ipaddr.js/lib/ipaddr.js
+Monitor de Inventario/node_modules/ipaddr.js/lib/ipaddr.js.d.ts
+Monitor de Inventario/node_modules/media-typer/HISTORY.md
+Monitor de Inventario/node_modules/media-typer/index.js
+Monitor de Inventario/node_modules/media-typer/LICENSE
+Monitor de Inventario/node_modules/media-typer/package.json
+Monitor de Inventario/node_modules/media-typer/README.md
+Monitor de Inventario/node_modules/merge-descriptors/HISTORY.md
+Monitor de Inventario/node_modules/merge-descriptors/index.js
+Monitor de Inventario/node_modules/merge-descriptors/LICENSE
+Monitor de Inventario/node_modules/merge-descriptors/package.json
+Monitor de Inventario/node_modules/merge-descriptors/README.md
+Monitor de Inventario/node_modules/methods/HISTORY.md
+Monitor de Inventario/node_modules/methods/index.js
+Monitor de Inventario/node_modules/methods/LICENSE
+Monitor de Inventario/node_modules/methods/package.json
+Monitor de Inventario/node_modules/methods/README.md
+Monitor de Inventario/node_modules/mime/.npmignore
+Monitor de Inventario/node_modules/mime/CHANGELOG.md
+Monitor de Inventario/node_modules/mime/cli.js
+Monitor de Inventario/node_modules/mime/LICENSE
+Monitor de Inventario/node_modules/mime/mime.js
+Monitor de Inventario/node_modules/mime/package.json
+Monitor de Inventario/node_modules/mime/README.md
+Monitor de Inventario/node_modules/mime/types.json
+Monitor de Inventario/node_modules/mime/src/build.js
+Monitor de Inventario/node_modules/mime/src/test.js
+Monitor de Inventario/node_modules/mime-db/db.json
+Monitor de Inventario/node_modules/mime-db/HISTORY.md
+Monitor de Inventario/node_modules/mime-db/index.js
+Monitor de Inventario/node_modules/mime-db/LICENSE
+Monitor de Inventario/node_modules/mime-db/package.json
+Monitor de Inventario/node_modules/mime-db/README.md
+Monitor de Inventario/node_modules/mime-types/HISTORY.md
+Monitor de Inventario/node_modules/mime-types/index.js
+Monitor de Inventario/node_modules/mime-types/LICENSE
+Monitor de Inventario/node_modules/mime-types/package.json
+Monitor de Inventario/node_modules/mime-types/README.md
+Monitor de Inventario/node_modules/ms/index.js
+Monitor de Inventario/node_modules/ms/license.md
+Monitor de Inventario/node_modules/ms/package.json
+Monitor de Inventario/node_modules/ms/readme.md
+Monitor de Inventario/node_modules/negotiator/HISTORY.md
+Monitor de Inventario/node_modules/negotiator/index.js
+Monitor de Inventario/node_modules/negotiator/LICENSE
+Monitor de Inventario/node_modules/negotiator/package.json
+Monitor de Inventario/node_modules/negotiator/README.md
+Monitor de Inventario/node_modules/negotiator/lib/charset.js
+Monitor de Inventario/node_modules/negotiator/lib/encoding.js
+Monitor de Inventario/node_modules/negotiator/lib/language.js
+Monitor de Inventario/node_modules/negotiator/lib/mediaType.js
+Monitor de Inventario/node_modules/on-finished/HISTORY.md
+Monitor de Inventario/node_modules/on-finished/index.js
+Monitor de Inventario/node_modules/on-finished/LICENSE
+Monitor de Inventario/node_modules/on-finished/package.json
+Monitor de Inventario/node_modules/on-finished/README.md
+Monitor de Inventario/node_modules/packet-reader/.travis.yml
+Monitor de Inventario/node_modules/packet-reader/index.js
+Monitor de Inventario/node_modules/packet-reader/package.json
+Monitor de Inventario/node_modules/packet-reader/README.md
+Monitor de Inventario/node_modules/packet-reader/test/index.js
+Monitor de Inventario/node_modules/parseurl/HISTORY.md
+Monitor de Inventario/node_modules/parseurl/index.js
+Monitor de Inventario/node_modules/parseurl/LICENSE
+Monitor de Inventario/node_modules/parseurl/package.json
+Monitor de Inventario/node_modules/parseurl/README.md
+Monitor de Inventario/node_modules/path-to-regexp/History.md
+Monitor de Inventario/node_modules/path-to-regexp/index.js
+Monitor de Inventario/node_modules/path-to-regexp/LICENSE
+Monitor de Inventario/node_modules/path-to-regexp/package.json
+Monitor de Inventario/node_modules/path-to-regexp/Readme.md
+Monitor de Inventario/node_modules/pg/LICENSE
+Monitor de Inventario/node_modules/pg/package.json
+Monitor de Inventario/node_modules/pg/README.md
+Monitor de Inventario/node_modules/pg/lib/client.js
+Monitor de Inventario/node_modules/pg/lib/connection-parameters.js
+Monitor de Inventario/node_modules/pg/lib/connection.js
+Monitor de Inventario/node_modules/pg/lib/defaults.js
+Monitor de Inventario/node_modules/pg/lib/index.js
+Monitor de Inventario/node_modules/pg/lib/query.js
+Monitor de Inventario/node_modules/pg/lib/result.js
+Monitor de Inventario/node_modules/pg/lib/sasl.js
+Monitor de Inventario/node_modules/pg/lib/type-overrides.js
+Monitor de Inventario/node_modules/pg/lib/utils.js
+Monitor de Inventario/node_modules/pg/lib/native/client.js
+Monitor de Inventario/node_modules/pg/lib/native/index.js
+Monitor de Inventario/node_modules/pg/lib/native/query.js
+Monitor de Inventario/node_modules/pg-connection-string/index.d.ts
+Monitor de Inventario/node_modules/pg-connection-string/index.js
+Monitor de Inventario/node_modules/pg-connection-string/LICENSE
+Monitor de Inventario/node_modules/pg-connection-string/package.json
+Monitor de Inventario/node_modules/pg-connection-string/README.md
+Monitor de Inventario/node_modules/pg-int8/index.js
+Monitor de Inventario/node_modules/pg-int8/LICENSE
+Monitor de Inventario/node_modules/pg-int8/package.json
+Monitor de Inventario/node_modules/pg-int8/README.md
+Monitor de Inventario/node_modules/pg-pool/index.js
+Monitor de Inventario/node_modules/pg-pool/LICENSE
+Monitor de Inventario/node_modules/pg-pool/package.json
+Monitor de Inventario/node_modules/pg-pool/README.md
+Monitor de Inventario/node_modules/pg-pool/test/bring-your-own-promise.js
+Monitor de Inventario/node_modules/pg-pool/test/connection-strings.js
+Monitor de Inventario/node_modules/pg-pool/test/connection-timeout.js
+Monitor de Inventario/node_modules/pg-pool/test/ending.js
+Monitor de Inventario/node_modules/pg-pool/test/error-handling.js
+Monitor de Inventario/node_modules/pg-pool/test/events.js
+Monitor de Inventario/node_modules/pg-pool/test/idle-timeout-exit.js
+Monitor de Inventario/node_modules/pg-pool/test/idle-timeout.js
+Monitor de Inventario/node_modules/pg-pool/test/index.js
+Monitor de Inventario/node_modules/pg-pool/test/logging.js
+Monitor de Inventario/node_modules/pg-pool/test/max-uses.js
+Monitor de Inventario/node_modules/pg-pool/test/releasing-clients.js
+Monitor de Inventario/node_modules/pg-pool/test/setup.js
+Monitor de Inventario/node_modules/pg-pool/test/sizing.js
+Monitor de Inventario/node_modules/pg-pool/test/submittable.js
+Monitor de Inventario/node_modules/pg-pool/test/timeout.js
+Monitor de Inventario/node_modules/pg-pool/test/verify.js
+Monitor de Inventario/node_modules/pg-protocol/LICENSE
+Monitor de Inventario/node_modules/pg-protocol/package.json
+Monitor de Inventario/node_modules/pg-protocol/README.md
+Monitor de Inventario/node_modules/pg-protocol/dist/b.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/b.js
+Monitor de Inventario/node_modules/pg-protocol/dist/b.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/buffer-reader.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/buffer-reader.js
+Monitor de Inventario/node_modules/pg-protocol/dist/buffer-reader.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/buffer-writer.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/buffer-writer.js
+Monitor de Inventario/node_modules/pg-protocol/dist/buffer-writer.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/inbound-parser.test.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/inbound-parser.test.js
+Monitor de Inventario/node_modules/pg-protocol/dist/inbound-parser.test.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/index.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/index.js
+Monitor de Inventario/node_modules/pg-protocol/dist/index.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/messages.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/messages.js
+Monitor de Inventario/node_modules/pg-protocol/dist/messages.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/outbound-serializer.test.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/outbound-serializer.test.js
+Monitor de Inventario/node_modules/pg-protocol/dist/outbound-serializer.test.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/parser.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/parser.js
+Monitor de Inventario/node_modules/pg-protocol/dist/parser.js.map
+Monitor de Inventario/node_modules/pg-protocol/dist/serializer.d.ts
+Monitor de Inventario/node_modules/pg-protocol/dist/serializer.js
+Monitor de Inventario/node_modules/pg-protocol/dist/serializer.js.map
+Monitor de Inventario/node_modules/pg-protocol/src/b.ts
+Monitor de Inventario/node_modules/pg-protocol/src/buffer-reader.ts
+Monitor de Inventario/node_modules/pg-protocol/src/buffer-writer.ts
+Monitor de Inventario/node_modules/pg-protocol/src/inbound-parser.test.ts
+Monitor de Inventario/node_modules/pg-protocol/src/index.ts
+Monitor de Inventario/node_modules/pg-protocol/src/messages.ts
+Monitor de Inventario/node_modules/pg-protocol/src/outbound-serializer.test.ts
+Monitor de Inventario/node_modules/pg-protocol/src/parser.ts
+Monitor de Inventario/node_modules/pg-protocol/src/serializer.ts
+Monitor de Inventario/node_modules/pg-protocol/src/testing/buffer-list.ts
+Monitor de Inventario/node_modules/pg-protocol/src/testing/test-buffers.ts
+Monitor de Inventario/node_modules/pg-protocol/src/types/chunky.d.ts
+Monitor de Inventario/node_modules/pg-types/.travis.yml
+Monitor de Inventario/node_modules/pg-types/index.d.ts
+Monitor de Inventario/node_modules/pg-types/index.js
+Monitor de Inventario/node_modules/pg-types/index.test-d.ts
+Monitor de Inventario/node_modules/pg-types/Makefile
+Monitor de Inventario/node_modules/pg-types/package.json
+Monitor de Inventario/node_modules/pg-types/README.md
+Monitor de Inventario/node_modules/pg-types/lib/arrayParser.js
+Monitor de Inventario/node_modules/pg-types/lib/binaryParsers.js
+Monitor de Inventario/node_modules/pg-types/lib/builtins.js
+Monitor de Inventario/node_modules/pg-types/lib/textParsers.js
+Monitor de Inventario/node_modules/pg-types/test/index.js
+Monitor de Inventario/node_modules/pg-types/test/types.js
+Monitor de Inventario/node_modules/pgpass/package.json
+Monitor de Inventario/node_modules/pgpass/README.md
+Monitor de Inventario/node_modules/pgpass/lib/helper.js
+Monitor de Inventario/node_modules/pgpass/lib/index.js
+Monitor de Inventario/node_modules/postgres-array/index.d.ts
+Monitor de Inventario/node_modules/postgres-array/index.js
+Monitor de Inventario/node_modules/postgres-array/license
+Monitor de Inventario/node_modules/postgres-array/package.json
+Monitor de Inventario/node_modules/postgres-array/readme.md
+Monitor de Inventario/node_modules/postgres-bytea/index.js
+Monitor de Inventario/node_modules/postgres-bytea/license
+Monitor de Inventario/node_modules/postgres-bytea/package.json
+Monitor de Inventario/node_modules/postgres-bytea/readme.md
+Monitor de Inventario/node_modules/postgres-date/index.js
+Monitor de Inventario/node_modules/postgres-date/license
+Monitor de Inventario/node_modules/postgres-date/package.json
+Monitor de Inventario/node_modules/postgres-date/readme.md
+Monitor de Inventario/node_modules/postgres-interval/index.d.ts
+Monitor de Inventario/node_modules/postgres-interval/index.js
+Monitor de Inventario/node_modules/postgres-interval/license
+Monitor de Inventario/node_modules/postgres-interval/package.json
+Monitor de Inventario/node_modules/postgres-interval/readme.md
+Monitor de Inventario/node_modules/proxy-addr/HISTORY.md
+Monitor de Inventario/node_modules/proxy-addr/index.js
+Monitor de Inventario/node_modules/proxy-addr/LICENSE
+Monitor de Inventario/node_modules/proxy-addr/package.json
+Monitor de Inventario/node_modules/proxy-addr/README.md
+Monitor de Inventario/node_modules/qs/.editorconfig
+Monitor de Inventario/node_modules/qs/.eslintignore
+Monitor de Inventario/node_modules/qs/.eslintrc
+Monitor de Inventario/node_modules/qs/.nycrc
+Monitor de Inventario/node_modules/qs/CHANGELOG.md
+Monitor de Inventario/node_modules/qs/LICENSE.md
+Monitor de Inventario/node_modules/qs/package.json
+Monitor de Inventario/node_modules/qs/README.md
+Monitor de Inventario/node_modules/qs/.github/FUNDING.yml
+Monitor de Inventario/node_modules/qs/dist/qs.js
+Monitor de Inventario/node_modules/qs/lib/formats.js
+Monitor de Inventario/node_modules/qs/lib/index.js
+Monitor de Inventario/node_modules/qs/lib/parse.js
+Monitor de Inventario/node_modules/qs/lib/stringify.js
+Monitor de Inventario/node_modules/qs/lib/utils.js
+Monitor de Inventario/node_modules/qs/test/parse.js
+Monitor de Inventario/node_modules/qs/test/stringify.js
+Monitor de Inventario/node_modules/qs/test/utils.js
+Monitor de Inventario/node_modules/range-parser/HISTORY.md
+Monitor de Inventario/node_modules/range-parser/index.js
+Monitor de Inventario/node_modules/range-parser/LICENSE
+Monitor de Inventario/node_modules/range-parser/package.json
+Monitor de Inventario/node_modules/range-parser/README.md
+Monitor de Inventario/node_modules/raw-body/HISTORY.md
+Monitor de Inventario/node_modules/raw-body/index.d.ts
+Monitor de Inventario/node_modules/raw-body/index.js
+Monitor de Inventario/node_modules/raw-body/LICENSE
+Monitor de Inventario/node_modules/raw-body/package.json
+Monitor de Inventario/node_modules/raw-body/README.md
+Monitor de Inventario/node_modules/safe-buffer/index.d.ts
+Monitor de Inventario/node_modules/safe-buffer/index.js
+Monitor de Inventario/node_modules/safe-buffer/LICENSE
+Monitor de Inventario/node_modules/safe-buffer/package.json
+Monitor de Inventario/node_modules/safe-buffer/README.md
+Monitor de Inventario/node_modules/safer-buffer/dangerous.js
+Monitor de Inventario/node_modules/safer-buffer/LICENSE
+Monitor de Inventario/node_modules/safer-buffer/package.json
+Monitor de Inventario/node_modules/safer-buffer/Porting-Buffer.md
+Monitor de Inventario/node_modules/safer-buffer/Readme.md
+Monitor de Inventario/node_modules/safer-buffer/safer.js
+Monitor de Inventario/node_modules/safer-buffer/tests.js
+Monitor de Inventario/node_modules/send/HISTORY.md
+Monitor de Inventario/node_modules/send/index.js
+Monitor de Inventario/node_modules/send/LICENSE
+Monitor de Inventario/node_modules/send/package.json
+Monitor de Inventario/node_modules/send/README.md
+Monitor de Inventario/node_modules/send/node_modules/ms/index.js
+Monitor de Inventario/node_modules/send/node_modules/ms/license.md
+Monitor de Inventario/node_modules/send/node_modules/ms/package.json
+Monitor de Inventario/node_modules/send/node_modules/ms/readme.md
+Monitor de Inventario/node_modules/serve-static/HISTORY.md
+Monitor de Inventario/node_modules/serve-static/index.js
+Monitor de Inventario/node_modules/serve-static/LICENSE
+Monitor de Inventario/node_modules/serve-static/package.json
+Monitor de Inventario/node_modules/serve-static/README.md
+Monitor de Inventario/node_modules/setprototypeof/index.d.ts
+Monitor de Inventario/node_modules/setprototypeof/index.js
+Monitor de Inventario/node_modules/setprototypeof/LICENSE
+Monitor de Inventario/node_modules/setprototypeof/package.json
+Monitor de Inventario/node_modules/setprototypeof/README.md
+Monitor de Inventario/node_modules/setprototypeof/test/index.js
+Monitor de Inventario/node_modules/split2/bench.js
+Monitor de Inventario/node_modules/split2/index.js
+Monitor de Inventario/node_modules/split2/LICENSE
+Monitor de Inventario/node_modules/split2/package.json
+Monitor de Inventario/node_modules/split2/README.md
+Monitor de Inventario/node_modules/split2/test.js
+Monitor de Inventario/node_modules/statuses/codes.json
+Monitor de Inventario/node_modules/statuses/HISTORY.md
+Monitor de Inventario/node_modules/statuses/index.js
+Monitor de Inventario/node_modules/statuses/LICENSE
+Monitor de Inventario/node_modules/statuses/package.json
+Monitor de Inventario/node_modules/statuses/README.md
+Monitor de Inventario/node_modules/toidentifier/HISTORY.md
+Monitor de Inventario/node_modules/toidentifier/index.js
+Monitor de Inventario/node_modules/toidentifier/LICENSE
+Monitor de Inventario/node_modules/toidentifier/package.json
+Monitor de Inventario/node_modules/toidentifier/README.md
+Monitor de Inventario/node_modules/type-is/HISTORY.md
+Monitor de Inventario/node_modules/type-is/index.js
+Monitor de Inventario/node_modules/type-is/LICENSE
+Monitor de Inventario/node_modules/type-is/package.json
+Monitor de Inventario/node_modules/type-is/README.md
+Monitor de Inventario/node_modules/unpipe/HISTORY.md
+Monitor de Inventario/node_modules/unpipe/index.js
+Monitor de Inventario/node_modules/unpipe/LICENSE
+Monitor de Inventario/node_modules/unpipe/package.json
+Monitor de Inventario/node_modules/unpipe/README.md
+Monitor de Inventario/node_modules/utils-merge/.npmignore
+Monitor de Inventario/node_modules/utils-merge/index.js
+Monitor de Inventario/node_modules/utils-merge/LICENSE
+Monitor de Inventario/node_modules/utils-merge/package.json
+Monitor de Inventario/node_modules/utils-merge/README.md
+Monitor de Inventario/node_modules/vary/HISTORY.md
+Monitor de Inventario/node_modules/vary/index.js
+Monitor de Inventario/node_modules/vary/LICENSE
+Monitor de Inventario/node_modules/vary/package.json
+Monitor de Inventario/node_modules/vary/README.md
+Monitor de Inventario/node_modules/xtend/.jshintrc
+Monitor de Inventario/node_modules/xtend/immutable.js
+Monitor de Inventario/node_modules/xtend/LICENSE
+Monitor de Inventario/node_modules/xtend/mutable.js
+Monitor de Inventario/node_modules/xtend/package.json
+Monitor de Inventario/node_modules/xtend/README.md
+Monitor de Inventario/node_modules/xtend/test.js
