@@ -35,7 +35,6 @@ app.get("/marcas", async (req, res) => {
     let { tienda_id, categoria_id } = req.query;
     try {
         const marcas = await getMarcas(tienda_id, categoria_id);
-        console.log(marcas);
         res.send(marcas);
     } catch (error) {
         res.status(500).send(`Hubo un error, intente nuevamente. ${error}`);

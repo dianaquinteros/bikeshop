@@ -26,24 +26,23 @@ async function getCategorias(tienda_id) {
     return result.rows;
 }
 
-async function getMarcas(categoria_id, tienda_id) {
+async function getMarcas(tienda_id, categoria_id) {
     const consulta = {
         text: `select distinct b.* FROM brands b
                 JOIN products p on p.brand_id = b.brand_id 
                 JOIN categories c ON p.category_id = c.category_id 
                 JOIN stocks s on s.product_id = p.product_id
                 JOIN stores st on st.store_id = s.store_id 
-                WHERE c.category_id = $1 AND
-                st.store_id = $2
+                WHERE st.store_id = $1 AND
+                c.category_id = $2
                 ORDER BY b.brand_name;`,
-        values: [categoria_id, tienda_id]
+        values: [tienda_id, categoria_id]
     };
     const result = await pool.query(consulta);
     return result.rows;
 }
 
-async function getProductos(categoria_id, tienda_id, marca_id) {
-    console.log('cat', categoria_id)
+async function getProductos(tienda_id, categoria_id, marca_id) {
     const consulta = {
         text: `SELECT st.store_name, 
                 p.product_id,
@@ -54,10 +53,10 @@ async function getProductos(categoria_id, tienda_id, marca_id) {
                 JOIN categories c ON p.category_id = c.category_id 
                 JOIN stocks s on s.product_id = p.product_id
                 JOIN stores st on st.store_id = s.store_id 
-                WHERE c.category_id = $1 AND
-                st.store_id = $2 AND
+                WHERE st.store_id = $1 AND
+                c.category_id = $2 AND
                 b.brand_id = $3`,
-        values: [categoria_id, tienda_id, marca_id]
+        values: [tienda_id, categoria_id, marca_id]
     };
     const result = await pool.query(consulta);
     return result.rows;
